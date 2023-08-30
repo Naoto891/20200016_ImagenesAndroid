@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Codelab2</string>
+    <string name="happy_birthday_text">Feliz cumpleaños Pedro!</string>
+    <string name="signature_text">De Pedro</string>
+</resources>
